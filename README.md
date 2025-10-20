@@ -7,7 +7,7 @@ This is broken down in two parts:
 
 ## Forward Limit Bounds
 
-These bounds make up the data for Figs. 1--3.
+These bounds make up the data for Figs. 1–3.
 
 - The data for the bound is prepared in
   [`forward_bounds.nb`](forward_bounds.nb). Note that we use
@@ -26,7 +26,7 @@ These bounds make up the data for Figs. 1--3.
 
 ## Non-Forward Bounds
 
-These bounds make up the data for Figs. 4--5.
+These bounds make up the data for Figs. 4–5.
 
 ## Other Files
 
