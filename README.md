@@ -21,7 +21,7 @@ These bounds make up the data for Figs. 1--3.
 - The directories [`spectra_fig_1`](spectra_fig_1) and
   [`spectra_fig_3`](spectra_fig_3) contain the raw values for the
   spectra extracted at
-  each point. This value can be read using the dedicated functions in
+  each point. These values can be read using the dedicated functions in
   [`forward_bounds.nb`](forward_bounds.nb).
 
 ## Non-Forward Bounds
