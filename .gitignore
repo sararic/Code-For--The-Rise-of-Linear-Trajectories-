@@ -1,0 +1,8 @@
+sdpbRun/*.json
+sdpbRun/digest.txt
+sdpbRun/*.err
+sdpbRun/*.out
+sdpbRun/sdpbIO/*
+sdpbRun/lock
+sdpbRun/*.7z
+Figures/*
