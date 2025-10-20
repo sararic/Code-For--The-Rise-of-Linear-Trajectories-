@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2025 Sara Ricossa & Jie-Da Tsai
+Copyright (c) 2025 Sara Ricossa, Jie-Da Tsai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
