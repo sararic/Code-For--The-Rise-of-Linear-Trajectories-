@@ -28,8 +28,6 @@ These bounds make up the data for Figs. 1–3.
 
 These bounds make up the data for Figs. 4–5.
 
-- The relevant files can be found in the `jedi` branch of this
-  repository.
 - We prepare the json file in [`run.sh`](run.sh). Note that we use
   the non-forward dispersion relations here as we describe in our
   paper and in [2102.08951](https://arxiv.org/abs/2102.08951).
