@@ -37,3 +37,7 @@ These bounds make up the data for Figs. 4–5.
 ## Other Files
 
 - The file [`Plots.nb`](Plots.nb) contains the code that generates all the plots, in a comprehensible format. The exact values plotted can be found there as well.
+
+## Release
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17425032.svg)](https://doi.org/10.5281/zenodo.17425032)
