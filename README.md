@@ -30,11 +30,11 @@ These bounds make up the data for Figs. 4–5.
 
 - The relevant files can be found in the `jedi` branch of this
   repository.
-- We prepare the json file in [`run.sh`](run.sh).
+- We prepare the json file in [`run.sh`](run.sh). Note that we use
+  the non-forward dispersion relations here as we describe in our
+  paper and in [2102.08951](https://arxiv.org/abs/2102.08951).
 - The values of the masses can be changed in [`generate.m`](generate.m).
-- The sdpb run is done in [`run-l-g.sh`](run-l-g.sh). Note that we use
-  the forward limit dispersion relation here as we describe in our
-  paper.
+- The sdpb run is done in [`run-l-g.sh`](run-l-g.sh).
 
 ## Other Files
 
